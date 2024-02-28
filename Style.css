@@ -19,7 +19,7 @@ img{
 
 
 .slog{
-	background-image:linear-gradient(#FFFFFF,#FFCB28);
+	background-image:linear-gradient(#FFFFFF,#5E0297);
 	padding: 100px;
 	font-size: 12px;
 	color: white;
@@ -52,7 +52,7 @@ font-weight: bolder;
 }
 
 .b{
-  background-color: Orange;
+  background-color: Violet;
 color: white;
 margin-top: 8px;
 text-align: center;
@@ -88,7 +88,7 @@ font-weight: 200;
 
 
 a{
-	color: Orange;
+	color: Violet;
 	font-family: sans-serif;
 font-variant: small-caps;
 font-weight: 900;
